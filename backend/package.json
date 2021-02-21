@@ -1,0 +1,22 @@
+{
+  "name": "shubh",
+  "version": "1.0.0",
+  "description": "shubham",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "shubham shahi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "shubh"
+  },
+  "keywords": [
+    "shubh"
+  ],
+  "author": "shubh",
+  "license": "ISC"
+}
